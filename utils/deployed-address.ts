@@ -1,3 +1,3 @@
-const deployedAddress = '0x0D0f25895923f089f37F82B28D82B9CDc864b238'
+const deployedAddress = '0x55746e8161Be0C914397F1bE2Bc92ED8Dc4A1933'
 
 export default deployedAddress
